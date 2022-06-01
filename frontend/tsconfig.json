@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "commonjs",
+        "removeComments": true,
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+    },
+    "include": [
+        "src/**/*.ts"
+    ],
+}
